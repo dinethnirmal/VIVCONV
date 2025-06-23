@@ -1,2 +1,2 @@
 # VIVCONV
-Vortex induced vibration converter design and analysis. (FYP)
+DESIGN AND REALIZATION OF VORTEX-INDUCED VIBRATION CONVERTER
